@@ -1,0 +1,112 @@
+/*Style File: Where all custom style information is defined*/
+p{
+  font-size:10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h5 {
+  font-size:20px;
+  text-align: left;
+  font-weight: bold;
+  color: gray;
+  z-index:10;
+}
+
+h6 {
+  font-size:15px;
+  font-weight: bold;
+  text-align: left;
+}
+
+h2{
+  font-size:10px;
+  text-align: right;
+}
+
+h2:after {
+    content: ' \00A9';
+}
+.box {
+  margin-left: 0;
+  margin-right: 0;
+} 
+
+.column {
+  margin-left: 0;
+  margin-right: 0;
+  padding:0px;
+}
+
+#mypiediv {
+  width:150px;
+  display: inline-block;
+  right: 1px;
+}    
+
+#mypiediv2 {
+  position:relative;
+  float:right;
+  width:250px;
+  display: inline-block;
+  z-index:1;
+}
+
+/*General*/
+.well {
+   color:black;  
+   background-color: #b3d0ec;  
+   padding:0px; 
+   margin: 0; 
+   margin-right: 0;
+}
+.pan2 {
+   color:black;  
+   background-color: #b3d9ec;  
+   padding:0px; 
+   margin: 0; 
+   margin-right: 0;
+}
+
+.box {
+  margin-left: 0;
+  margin-right: 0;
+} 
+
+.btn-gen {
+  font-weight: bold;
+  text-align: center;
+}
+.btn-box {
+  left:50px;
+}
+
+
+.main {
+  width:1190px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  top: -70px;
+    z-index:1;
+
+position: relative;
+  left:0px;
+  right:0px;
+}
+
+.top {
+  padding:0px; 
+  margin-left: 0; 
+  margin-right: 0; 
+  margin-bottom: 0;
+  z-index:2;
+}
+
+.small-box.bg-yellow {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+  
