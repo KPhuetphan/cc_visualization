@@ -1,1 +1,1 @@
-# cc_visualization
+# CC visualization
