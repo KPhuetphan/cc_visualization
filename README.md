@@ -29,7 +29,7 @@ Plugin for R Interface to Python: Reticulate by R studio
 
 
 
-###### For run program start from App.R 
+###### For run program start from app.R 
 
 
 ###### For run example file !
